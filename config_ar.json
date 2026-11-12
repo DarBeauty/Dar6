@@ -516,6 +516,49 @@
       "preview_data": false
     },
     {
+      "fit": "contain",
+      "items": [
+        {
+          "key": "lilyeveHomeBanner",
+          "image": "https://cdn.shopify.com/s/files/1/0235/6687/6752/files/lilyeve-banner-ar-1368x960.png?v=1794480048",
+          "video": "",
+          "padding": 5,
+          "category": "gid://shopify/Collection/280805310544",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false
+        },
+        {
+          "key": "anuaHomeBanner",
+          "image": "https://cdn.shopify.com/s/files/1/0235/6687/6752/files/anua-banner-ar-1368x960.png?v=1794479672",
+          "video": "",
+          "padding": 5,
+          "category": "gid://shopify/Collection/268093587536",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false
+        }
+      ],
+      "design": "static",
+      "layout": "bannerImage",
+      "visible": true,
+      "radius": 0,
+      "padding": 6,
+      "parallax": false,
+      "marginTop": 20,
+      "marginLeft": 10,
+      "marginRight": 10,
+      "isHorizontal": false,
+      "marginBottom": 10,
+      "preview_data": false,
+      "enableBackground": false,
+      "parallaxImageRatio": 1.3
+    },
+    {
       "font": "Tajawal",
       "type": "static",
       "title": "الماركات الاكثر شعبية",

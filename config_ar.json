@@ -124,7 +124,7 @@
       "showBackground": false,
       "enableBackground": false,
       "pageIndicatorType": "line",
-      "parallaxImageRatio": 1.2,
+      "parallaxImageRatio": 1.5,
       "enableTimeIndicator": false,
       "doubleTapToFullScreen": false
     },
